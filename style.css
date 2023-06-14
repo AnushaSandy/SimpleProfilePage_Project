@@ -1,0 +1,21 @@
+img{
+    width: 450px;
+    vertical-align:middle;
+    margin-left: auto;
+    float: left;
+    overflow-clip-margin: content box;
+    overflow: clip;
+}
+.img1{
+    float: right;
+    width: 300px;
+    height: 300px;
+
+}
+.fieldset{
+    width:fit-content ;
+    border: 1px solid white;
+     text-align:center;
+     align-items: center;
+     align-content: center;
+}
